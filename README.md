@@ -10,7 +10,7 @@
 ## Comment l'utiliser?
 
 ### Après avoir fait toutes les étapes pour l'installer, il ne reste plus qu'a l'utiliser!  
-#### Pour l'utiliser, c'est très simple, il suffit sois d'ecrire le mot ``Keylogger`` dans le même cmd, puis le keylogger sera lancer,  
+#### Pour l'utiliser, c'est très simple, il suffit sois d'ecrire ``keylogger.pyw`` dans le même cmd, puis le keylogger sera lancer,  
 #### Sois de double clicker sur le fichier Keylogger puis il se lancera!  
 #### Pour savoir si il est lancer, il faudra aller dans la barre des taches de votre ordinateur windows puis de rechercher l'icone python.  
 -----------------
