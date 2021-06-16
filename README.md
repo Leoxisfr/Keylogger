@@ -18,6 +18,15 @@
 ## Comment voir le resultat du keylogger?
 
 ### Pour voir le resultat du keylogger, il suffira d'aller sur le fichier ``Touch.txt`` est de l'ouvrir, si tout a bien fonctionner, vous devrier voir ca: ![image](https://user-images.githubusercontent.com/85574719/122255861-d6f69080-cece-11eb-9ee6-a1e776757ac0.png)  
+  
+    
+    
+-----------------
+## Mes réseaux:
+*tiktok: https://www.tiktok.com/@python_html_coding?lang=fr*  
+*instagram: https://www.instagram.com/python_coding_2.0/*
+
+
 
 
 
